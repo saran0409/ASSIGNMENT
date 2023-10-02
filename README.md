@@ -1,3 +1,4 @@
+THIS README.md is all about ASSIGN.txt 
 FOR THE FIRST QUESTION HERE IS THE EXPLANATION
   The quoted Terraform script of assignment_1 defines and deploys AWS resources using Infrastructure as Code (IAC) principles. Let's break down the script step by step and provide an explanation for each part:
 
